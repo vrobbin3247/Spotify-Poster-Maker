@@ -46,5 +46,4 @@ Pull requests are welcome! Feel free to fork the repo and submit improvements.
 If you like this project, give it a ⭐ on GitHub!
 
 ---
-Made with ❤️ by [Your Name]
-
+🚀 Made with ❤️ using Python, Streamlit & Spotipy 🎶
