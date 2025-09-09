@@ -11,6 +11,13 @@
 ## 🎨 About the Project
 Spotify Poster Maker is a web app that generates aesthetic posters for your favorite Spotify tracks! Just enter a song URL, and the app will create a high-quality poster featuring album art, track details, and a stylish background.
 
+## 🎨 Sample Posters
+<p float="left">
+  <img src="images/poster_1.png" width="200" />
+  <img src="images/poster_2.png" width="200" />
+  <img src="images/poster_3.png" width="200" />
+</p>
+
 ## 🚀 Features
 ✅ Generate posters from Spotify song URLs  
 ✅ Automatic background gradient matching album art 🎨  
