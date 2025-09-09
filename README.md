@@ -14,6 +14,7 @@ Spotify Poster Maker is a web app that generates aesthetic posters for your favo
 ## 🎨 Sample Posters
 <p float="left">
   <img src="images/poster_1.png" width="200" />
+  <img src="images/poster_4.png" width="200" />
   <img src="images/poster_2.png" width="200" />
   <img src="images/poster_3.png" width="200" />
 </p>
