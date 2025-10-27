@@ -1,5 +1,5 @@
 # Spotify Poster Maker 🎵🖼️
-
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fvrobbin3247%2FSpotify-Poster-Maker&label=views&icon=github&color=%23198754&message=&style=flat-square&tz=UTC)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spotify-poster-maker.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.12.2-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.42.1-red)
